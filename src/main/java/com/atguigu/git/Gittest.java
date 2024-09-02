@@ -7,5 +7,6 @@ public class Gittest {
         System.out.println("Hello master!");
         System.out.println("Hello hot-fix!");
         System.out.println("Push commit");
+        System.out.println("Pull commit");
     }
 }
